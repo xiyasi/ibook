@@ -1,8 +1,8 @@
- language: node_js
- node_js:
-   - "node"
+language: node_js
+node_js:
+  - "node"
 
-after_script
+after_script:
   - gitbook build
   - cd ./_book
   - git init
