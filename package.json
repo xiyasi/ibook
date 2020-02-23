@@ -10,9 +10,8 @@
     "type": "git",
     "url": "git+https://github.com/xiyasi/ibook.git"
   },
-  "keywords": [],
   "author": "xiyasi",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/xiyasi/ibook/issues"
   },
